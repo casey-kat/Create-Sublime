@@ -1,0 +1,13 @@
+name = "Elytra Capes"
+filename = "elytracapes-2.3-1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VNmsFeXY/versions/rNaRamdc/elytracapes-2.3-1.19.2.jar"
+hash-format = "sha1"
+hash = "df0461de9c2707cbfc4b593fa49064347e2f5bd6"
+
+[update]
+[update.modrinth]
+mod-id = "VNmsFeXY"
+version = "rNaRamdc"

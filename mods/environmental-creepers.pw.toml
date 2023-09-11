@@ -1,0 +1,13 @@
+name = "Environmental Creepers"
+filename = "environmentalcreepers-fabric-1.19.0-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82f061aee645b883aaafbb2cc7cccb277dea5e1b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3878704
+project-id = 246320

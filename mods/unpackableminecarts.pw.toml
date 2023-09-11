@@ -1,0 +1,13 @@
+name = "Unpackable Minecarts"
+filename = "unpackableminecarts-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vif4jVUa/versions/pHxlNyfv/unpackableminecarts-1.3.jar"
+hash-format = "sha1"
+hash = "e164359b31e01f95d68125226d2dc8db99812b70"
+
+[update]
+[update.modrinth]
+mod-id = "Vif4jVUa"
+version = "pHxlNyfv"

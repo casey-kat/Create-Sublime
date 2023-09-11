@@ -1,0 +1,13 @@
+name = "Fluidlogged"
+filename = "fluidlogged-1.2.0-fabric-mc1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BnXpPaut/versions/DZKKhKne/fluidlogged-1.2.0-fabric-mc1.19.jar"
+hash-format = "sha1"
+hash = "d2daa6e982f154f5084dff784b400e686677d84f"
+
+[update]
+[update.modrinth]
+mod-id = "BnXpPaut"
+version = "DZKKhKne"

@@ -1,0 +1,13 @@
+name = "Anchor"
+filename = "anchor-fabric-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d72fb7529ddac966f249d3f7d4a326700f9a6ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4648260
+project-id = 564073

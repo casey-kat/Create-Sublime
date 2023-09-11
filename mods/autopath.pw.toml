@@ -1,0 +1,13 @@
+name = "Automatic Path"
+filename = "autopath-mc1.19-1.4.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rYdrYotO/versions/CsYQQcLZ/autopath-mc1.19-1.4.9.jar"
+hash-format = "sha1"
+hash = "025c984bf1aec540a3a90f39294b1b2711cb2652"
+
+[update]
+[update.modrinth]
+mod-id = "rYdrYotO"
+version = "CsYQQcLZ"

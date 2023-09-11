@@ -1,0 +1,13 @@
+name = "Deeper Dark"
+filename = "deeper_dark-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nHr26oc2/versions/gQBx7akD/deeper_dark-1.0.jar"
+hash-format = "sha1"
+hash = "4ddd2d0227b239b34cee4c3be2b54e1754154b4c"
+
+[update]
+[update.modrinth]
+mod-id = "nHr26oc2"
+version = "gQBx7akD"

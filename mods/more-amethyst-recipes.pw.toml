@@ -1,0 +1,13 @@
+name = "More Amethyst Recipes"
+filename = "more-amethyst-recipes-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DcLnY1WI/versions/dYjfdbMd/more-amethyst-recipes-1.0.jar"
+hash-format = "sha1"
+hash = "b0eddab58787307b5112614e7ade6ad30ef6455c"
+
+[update]
+[update.modrinth]
+mod-id = "DcLnY1WI"
+version = "dYjfdbMd"
