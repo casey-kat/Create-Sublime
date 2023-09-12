@@ -897,6 +897,14 @@ file = "config/paxi/datapacks/cheaper-map-crafting+1.19.zip"
 hash = "93d70cbe23a3ab196f0aef5e44b31fbd8f16cbf66d0b42ff0f7539740e8f7136"
 
 [[files]]
+file = "config/paxi/datapacks/fokastudio-s-ender-expansion-v1-5b.zip"
+hash = "eb291cd36dd64d6814c310b103f21314b3a9d655fb2c0d83bf7629c0913024ad"
+
+[[files]]
+file = "config/paxi/datapacks/nether-3-4.zip"
+hash = "2a6e290d9b4069cf286e5f1a1a6c7e89293908c4e763d8038668e7eabc050192"
+
+[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
@@ -923,10 +931,6 @@ hash = "fc1cd2ae6ffc55248544e44e64bf7231321a768c5a677fd47169bd7cf1639218"
 [[files]]
 file = "config/paxi/resourcepacks/[1.3] Enhanced Boss Bars.zip"
 hash = "b27b9110c46ab42fd2ce34175e74600e36098b2d49dfa316d75430793213ea0d"
-
-[[files]]
-file = "config/paxi/resourcepacks/xali's Enchanted Books v0.12.0.zip"
-hash = "441dff2b6a130c0028daf44972883f08dfbc55935d4b9cf9123db6687969df5f"
 
 [[files]]
 file = "config/paxi/resourcepacks/xali's Potions v1.0.0.zip"
@@ -1301,16 +1305,6 @@ hash = "00062451c2a61839868f08ee5d9169160f1812b0ae39acdc0f8087dc6630c9a6"
 metafile = true
 
 [[files]]
-file = "mods/betterend.pw.toml"
-hash = "4723e2d187da836ab93f5e2ed6c5e9823c1db7984281813598a09d0ea85ffa4c"
-metafile = true
-
-[[files]]
-file = "mods/betternether.pw.toml"
-hash = "96db2068a8edb47d615d74bdc89241174b1d0aa7859b0bcffef365d801dd5717"
-metafile = true
-
-[[files]]
 file = "mods/biome-moss.pw.toml"
 hash = "2c3d10c60cc6234e6d9544f4435a635f2bb8b7da1561d1b4cd9a3645e7ed40ca"
 metafile = true
@@ -1328,6 +1322,16 @@ metafile = true
 [[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "b5b05f82debade89bee70cd5e11274ad166ea6e63df2357df22e03e83ca76984"
+metafile = true
+
+[[files]]
+file = "mods/bundle-jumble.pw.toml"
+hash = "a7814efcab6cd025811d51501013dfe2a9fcbeda70dd3a4310cc744f29cbb72f"
+metafile = true
+
+[[files]]
+file = "mods/bundle-recipe.pw.toml"
+hash = "9052020b243f263b9fb06c3e548d494df206a4e7c8418f3b43772504d0beb493"
 metafile = true
 
 [[files]]
@@ -1468,11 +1472,6 @@ metafile = true
 [[files]]
 file = "mods/delightful-creators-fabric.pw.toml"
 hash = "7bad4dfe59078f474242cc2d336df1daea1dffa559cd63ef250befb05646d639"
-metafile = true
-
-[[files]]
-file = "mods/dimthread.pw.toml"
-hash = "edf4d6024ba380cc5e3d308da2077a22288b03e9ac465000d604fa5df0241911"
 metafile = true
 
 [[files]]
@@ -1916,6 +1915,11 @@ hash = "631a4aeea3ca16afe689e67c409cb39d18af269e1eecd944d042a85a88d34314"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "ab1fbcd8838e86f5acbfb68a8a2fdc9da3614b0245fb78d0043c57bf83a1667d"
 metafile = true
@@ -1948,11 +1952,6 @@ metafile = true
 [[files]]
 file = "mods/nox.pw.toml"
 hash = "dfb57f884376a6e087b1a389a71f8c6b5cce32aa2916234a8010044d5c3592a6"
-metafile = true
-
-[[files]]
-file = "mods/nullscape.pw.toml"
-hash = "f1128e7959731059900093f9f2835dbac03d2e888533bff4eef44588f8c93ca5"
 metafile = true
 
 [[files]]
@@ -2027,7 +2026,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "a20da06b37ff4fd62465247f42a5a63f5ca507e081e50a97b52bf7afb69135dc"
+hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
 metafile = true
 
 [[files]]
@@ -2178,6 +2177,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "cefcb862b31d0f186874b21dd31fba61e44c932f7b26b0c4511faac6fc0a3457"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "56f4fd4f1acc6cffb7769ec153b033963321fa78d3cb60a352b5f6af49938bbb"
 metafile = true
 
 [[files]]
