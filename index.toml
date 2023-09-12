@@ -1350,11 +1350,6 @@ hash = "80084941067856fd4758c91fa05aad359f5d1b18991dc58cbf501c8ad921c2b7"
 metafile = true
 
 [[files]]
-file = "mods/better-end-sky.pw.toml"
-hash = "9db7e0c35795f22069c8e789d5c1276a1b433aa26f287e3e80275b244a11d2ff"
-metafile = true
-
-[[files]]
 file = "mods/better-nether-map.pw.toml"
 hash = "5a32457d03397962ca0ac645236f9e212c01a9589768857f85f49d5427ed8ce1"
 metafile = true
@@ -1367,6 +1362,11 @@ metafile = true
 [[files]]
 file = "mods/better-underwater-ruins.pw.toml"
 hash = "f12595dcd11943630ca85f6b09548d57e7f2df05e298b5d165136323926b5842"
+metafile = true
+
+[[files]]
+file = "mods/better-withered-mobs.pw.toml"
+hash = "00062451c2a61839868f08ee5d9169160f1812b0ae39acdc0f8087dc6630c9a6"
 metafile = true
 
 [[files]]
@@ -1415,6 +1415,11 @@ hash = "c146babc3f83049bc49c190308f9d190b636144c61f3c69a87099692656386fb"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
+metafile = true
+
+[[files]]
 file = "mods/cat_jam.pw.toml"
 hash = "701e4d124c9bf41aa3d3e799d946d3c9a34489ffad95c4a6e54d69c2ba5e2442"
 metafile = true
@@ -1435,11 +1440,6 @@ hash = "4dcf5c66d30f78d3d84d2596149b457f7ab2021591e98f9d34b3636e8c961d60"
 metafile = true
 
 [[files]]
-file = "mods/celestria.pw.toml"
-hash = "b3eda177d099ef511ccdd9d738d902c6c10f4037bd7dd0869ae9a3ff545a5d91"
-metafile = true
-
-[[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "15590379221e4b4d9d1ce045a7e01585aca9a4217c322cc0e072dd196b633e47"
 metafile = true
@@ -1456,7 +1456,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "43fa247b9adb68ddd3fe4b683fd5c9fbf97f897e87bf0d35957cfb3fff63b18f"
+hash = "d1dc8ac9ea0e5aed978c464ff34e460924dfc44d518eece4abbbfb9a5d49abf8"
 metafile = true
 
 [[files]]
@@ -1535,6 +1535,16 @@ hash = "ea27435e1861ade52a344e2af4304fba169e03b9be4f4b721ec0e582da4f414c"
 metafile = true
 
 [[files]]
+file = "mods/death-finder.pw.toml"
+hash = "071f50feec8c158e61d03e0d0d7ab559b93d1557624c3033307c3d3a8e5f8264"
+metafile = true
+
+[[files]]
+file = "mods/deathlog.pw.toml"
+hash = "be160873f910e05a59aab41a59e682a41f9c413642e24727383505c013e5e3fc"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
 metafile = true
@@ -1562,11 +1572,6 @@ metafile = true
 [[files]]
 file = "mods/dyed.pw.toml"
 hash = "73ff421e637a9745acd439fbc6c6ff7a926a02c2f0c9351f0a752b5d75a7010e"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "3a9f0237e0eb16ab1ffba6dc8de1e7fb9828c4b111c5c5fbee82dfdffcc1dcd7"
 metafile = true
 
 [[files]]
@@ -1735,11 +1740,6 @@ hash = "9cdd6767e3a3622ef53706bc9737c8ad771cf08590c7053b86a0c639f447b379"
 metafile = true
 
 [[files]]
-file = "mods/fallingleaves.pw.toml"
-hash = "423581d9738b23798456b7ba021698355ef8f03cef93d8c1266102a227d9a200"
-metafile = true
-
-[[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "99f6a7efa6c8946aacfa1465ad8a2912cdf3233dc09a5788ad5d7f6d679836b4"
 metafile = true
@@ -1780,6 +1780,11 @@ hash = "3a4d1dddba1e0aab765730a55dea749708b3daa239e6453e0de0c405d5192201"
 metafile = true
 
 [[files]]
+file = "mods/fluidvoidfading.pw.toml"
+hash = "28f8a1eebf577ac03991b69b1ae052e8806499488ef60c3d222de28dce8ee4ca"
+metafile = true
+
+[[files]]
 file = "mods/fog-looks-good-now-fabric.pw.toml"
 hash = "da1a3b53837fadb725f6600ea0d8af58e186760382904b688bbc7ba2eaa008d2"
 metafile = true
@@ -1797,11 +1802,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
-metafile = true
-
-[[files]]
-file = "mods/grappling-hook-mod-fabric.pw.toml"
-hash = "fa9fb3386b91299fe32c8b10c13aa222de57b0dcd93622b4ccddfe46aa694f2b"
 metafile = true
 
 [[files]]
@@ -2005,6 +2005,11 @@ hash = "e45dfb850e1c29d3ca4f02a438ef8b7edc44313161485029e7fa7c48a98c5cba"
 metafile = true
 
 [[files]]
+file = "mods/more-geodes.pw.toml"
+hash = "59cf85e5c896edecde2c4b50c5103d624d175f711eae0f0bad6e73b1818ce4a5"
+metafile = true
+
+[[files]]
 file = "mods/more-respawn-anchors-lts.pw.toml"
 hash = "b9c499f3c480aaa7c801bd950a77343ef45dacf29d1e7c11a0fc201cc85ab7bb"
 metafile = true
@@ -2141,7 +2146,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "a20da06b37ff4fd62465247f42a5a63f5ca507e081e50a97b52bf7afb69135dc"
+hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
 metafile = true
 
 [[files]]
@@ -2352,11 +2357,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
-metafile = true
-
-[[files]]
-file = "mods/true-darkness.pw.toml"
-hash = "39ff1eeecf6953a91912875ac15bb1492ed9623f129afba3bbd84722abf94a2a"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Better Withered Mobs"
+filename = "better-withered-mobs-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hi9w4kqP/versions/1.7.1/better-withered-mobs-1.7.1.jar"
+hash-format = "sha1"
+hash = "447d711a826f69b9c3a2c687c9923fa8686a4847"
+
+[update]
+[update.modrinth]
+mod-id = "hi9w4kqP"
+version = "fGRMxENZ"
