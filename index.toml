@@ -701,10 +701,6 @@ file = "config/fsb-interop.json"
 hash = "1966f13d3dbb8a4e9ef746f08468fc5b583bb5dc82ce187cacbf60da0cf2e585"
 
 [[files]]
-file = "config/grapplemod.json"
-hash = "1004b07859564aee67a0a358e5603b68016c8a2723f432066061dcdba6aeeec7"
-
-[[files]]
 file = "config/grindenchantments.json"
 hash = "7a42f31a0b3296f4033bff371a5af21ed1d5d333abc00f4faceb7e1e893518b6"
 
@@ -789,10 +785,6 @@ file = "config/lambdabettergrass.toml"
 hash = "71f8657fa67d9b11264366d2e8726098d6d86887e63f14e2cbce82532a2f84be"
 
 [[files]]
-file = "config/lambdynlights.toml"
-hash = "52d98ec8ad9137e9418b66b6ea396185b8063159b57003e45ebfd458d1bd0a02"
-
-[[files]]
 file = "config/libgui.json5"
 hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
 
@@ -866,7 +858,7 @@ hash = "0d508b398bb8edb1118799b6a47fc8fe36744787703dc3260bf51ca24b628368"
 
 [[files]]
 file = "config/nicerportals.toml"
-hash = "881a463926e94096b57af1a843715d875d566ed3023e78064a89090b3751c2bb"
+hash = "72c175cd32dd8494aa84102c3b2c756baff8829762714daf0f82255146df51d5"
 
 [[files]]
 file = "config/nohostilesaroundcampfire.json5"
@@ -1095,22 +1087,6 @@ hash = "a10ddfa4fe4036937354ff4b0bf15e8c671165da2137daa0804c2ca4bd56998a"
 [[files]]
 file = "config/spyglass-improvements/settings.json"
 hash = "0a19036936420b0045fab196758eacb65f31e8560d41b858a6afebe63208f4a0"
-
-[[files]]
-file = "config/stack-to-nearby-chests/locked-slots/New World (1).json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/stack-to-nearby-chests/locked-slots/New World (2).json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/stack-to-nearby-chests/locked-slots/New World.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/stack-to-nearby-chests/mod-options.json"
-hash = "0b467b4516672b0e0c64636e8dcc8f0b5f455b657a6ee400dd979f4a61f7820b"
 
 [[files]]
 file = "config/supplementaries-client.json"
