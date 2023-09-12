@@ -1305,6 +1305,11 @@ hash = "7bc14bcee759c7a1b20af6a5b5ee7045b5754f4babd7ec2cb5850fc74f2db60e"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "b119ad0ab00cff9062b29233e4f452d21f9ce690b53426e235670d54d84ac812"
+metafile = true
+
+[[files]]
 file = "mods/automobility.pw.toml"
 hash = "303840c0f81a6564cfae29b3896da5780e7e79f934eaf1d26cc3c89914869b8b"
 metafile = true
