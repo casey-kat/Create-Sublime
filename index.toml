@@ -18,7 +18,7 @@ hash = "0f54832d9390f3b29756365723e9d208325e91de8c4626e9d8fc93c380002108"
 
 [[files]]
 file = "config/HorseBuff.toml"
-hash = "db9dbb98a4a53aadd20167e7a6da4d8cfd86b8c345f9ae7b255d80207e32a698"
+hash = "38f4c6a1d14c77415c977bbe51cc42be4f669baf981eb094d3f0d7cc1d6d6845"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -98,7 +98,7 @@ hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
 
 [[files]]
 file = "config/better_respawn/better_respawn.properties"
-hash = "504dbd8f44fbfb96bd4da4c071ade386e90fd83a56aca0a3b070a0750fab3e6a"
+hash = "6c3a2ee61d654772a677f8d2ae4f6b7de67b620abe6384242d71b69e233ccf24"
 
 [[files]]
 file = "config/better_totem_of_undying.toml"
@@ -445,20 +445,12 @@ file = "config/cardinal-components-api.properties"
 hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
 [[files]]
-file = "config/celestria.json"
-hash = "a08df6793d0dae0dff9e87bfa29a743676efd59f224a714f814e9bcda9e6735a"
-
-[[files]]
 file = "config/chatpatches.json"
 hash = "42db81b63a3f7131ae6185b27de7f11314733d4922a6b20d34b0afc82346ffe8"
 
 [[files]]
 file = "config/chunksfadein.properties"
 hash = "8b8a4d8f5c09a607f29e3a2a91e8d33f44d588d5a302017787d5d9c242e322e6"
-
-[[files]]
-file = "config/cinderscapes.json"
-hash = "baa611cf438ebc9eaf7c963c4201e48339d4f759d8a76bf6b487c3406a201292"
 
 [[files]]
 file = "config/citresewn-defaults.json"
@@ -501,10 +493,6 @@ file = "config/crowdin.txt"
 hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
 
 [[files]]
-file = "config/darkness.properties"
-hash = "efb0ec71a541d65335be2be9268f23436eadb38c6deaa4cdcfcfdb9bfba76591"
-
-[[files]]
 file = "config/davespotioneering.json5"
 hash = "4cbb84068bc95685249f87d3eea716fb2725148b3653277869436c75c4fc0d25"
 
@@ -525,10 +513,6 @@ file = "config/dynamic_asset_generator.json"
 hash = "c0863bdf50e1bed026da13bc742115aa1ed976bf952cbd416c9d9b52db8cdb6f"
 
 [[files]]
-file = "config/dynamic_fps.json"
-hash = "fc976b7a74855e2e4a1c4659538b1d5b26a62a9d4133784a4ef3774f36f72608"
-
-[[files]]
 file = "config/dynamiclights.json"
 hash = "7d415771f460158bf3d552e14208f4f4dbced0b7178eac63323c44cb70ad57f2"
 
@@ -547,14 +531,6 @@ hash = "daecf2f4b4f0f6682cfabf68dcb963535f7f4284c671141dd7c7115b0c609ba7"
 [[files]]
 file = "config/easyanvils-server.toml"
 hash = "5bf38784a30090fbe2d5bc1a65aa5bd5744b5c9ed8a3abdce37341e5637cb570"
-
-[[files]]
-file = "config/easymagic-client.toml"
-hash = "308904b6a406509136196945f604e2d7c7e3907e7d51ddd37e1d923c673f4dc7"
-
-[[files]]
-file = "config/easymagic-server.toml"
-hash = "d449eee7c741312f01089d7673a1286e8dd7f1615c8ec69506103c5656c6e573"
 
 [[files]]
 file = "config/easyshulkerboxes-client.toml"
@@ -582,7 +558,7 @@ hash = "bcccf999e46e09321c9d7a2b0e783b8278a33e6cc8e90332108a67733d971e30"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "f4a7f32ac8ccc4bb08413b132c453f9afd55d1349969edaa61f5e53483126b46"
+hash = "8cee1b2df7a0647bbf0b6f1929ef291ec0a3d9a5296fcdb4d1f6fd97de29978b"
 
 [[files]]
 file = "config/enchdesc.json"
@@ -654,11 +630,11 @@ hash = "45e501b8528ef8d27c2a67efd27304c81cd0503f8b0671094e6653eefd394b12"
 
 [[files]]
 file = "config/fabrication/dimensional_tools.ini"
-hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
+hash = "af84a3eb2071e2a373b2e7969efb4be50ade376497d136534257208a6753b675"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "62eb4d710f562ad1e3c1abb7caf608677183e38d8e0e142c5e6d0b88828935b4"
+hash = "387821c3157a35066314859ab8a9a9e267241385bddbc1646421ea252c04cf91"
 
 [[files]]
 file = "config/fabrication/fscript.ini"
@@ -670,7 +646,7 @@ hash = "5a9291467f9f7918687a0d138a61e396cb9299b0b4ea2e4cf4f4d6f3594f865b"
 
 [[files]]
 file = "config/fabrication/item_despawn.ini"
-hash = "24b26ac0b8ff13889b6b3b00b2309366eb72c36014a9679a82f4cbff46c275f4"
+hash = "b7e478f1f66e3e853223b3b4a2fed4334fc8c0c7d773dd844a8b9b8670da6c15"
 
 [[files]]
 file = "config/fabrication/taggable_players.ini"
@@ -683,10 +659,6 @@ hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
 [[files]]
 file = "config/fabricskyboxes-config.json"
 hash = "1be5471ceb0179658652643d5f66603f335c830274b8acf38b82c602e454d112"
-
-[[files]]
-file = "config/fallingleaves.json"
-hash = "0bdd0cc3e9f54836e253a26eccbddcf9e4859de439f39efff9c2360b996d3e5f"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -757,10 +729,6 @@ file = "config/immediatelyfast.json"
 hash = "b58120216d6e50388ea90f6fe848fdc5c5cc6f755851d767088e28b26d5878d0"
 
 [[files]]
-file = "config/immersive_aircraft.json"
-hash = "1aff0b5ba27471274effdf10bccc62dd0a0e72304811ed30f1bda257e4df04dc"
-
-[[files]]
 file = "config/immersive_portals_fabric.json"
 hash = "a692dcbb12516b3dfe98862aca1212b29aeeee4b6b1344f6087644ea2adaea6b"
 
@@ -770,7 +738,7 @@ hash = "84eb2ca7a282f7d7cd103ef1c00f3863313080b0a588d2d055378abbedca824c"
 
 [[files]]
 file = "config/immersive_weathering-common.json"
-hash = "17cbdf0c75264c8d88999e6dbd0969f433b730730a6ef52729de084106481fa8"
+hash = "787376505d70f37fbc646b83fee84129fdc0f02bc536f9b7a8243a628ba2733f"
 
 [[files]]
 file = "config/indium-renderer.properties"
@@ -846,7 +814,7 @@ hash = "93f2e3955488738e44f8174ab858d9e8d1fb5c81a6b2fa7a80d98f02a7e2d885"
 
 [[files]]
 file = "config/lunaslimes/gameplay.json"
-hash = "84339cff2b5b28d2bec75e11c2539ced2556b86347d17cf954264fcac777d576"
+hash = "9e35c85d43f119eb6094e25bdd6965fb5d4d1131f1342501fbc0aa62ef80a26a"
 
 [[files]]
 file = "config/lunaslimes/visuals_audio.json"
@@ -902,7 +870,7 @@ hash = "881a463926e94096b57af1a843715d875d566ed3023e78064a89090b3751c2bb"
 
 [[files]]
 file = "config/nohostilesaroundcampfire.json5"
-hash = "a97e2810285f463d5613987db6abf549fc1ec7bee4e717d2700aabc4d8e324a8"
+hash = "1e63a7adabb6143aca03b8e68d40fe5e5f45a55235a072aa3f49ca9f1c39e159"
 
 [[files]]
 file = "config/notenoughanimations.json"
@@ -910,15 +878,11 @@ hash = "d7645024f541857dfe9e097c45e1306274b6ec0f26dcd80cc888f9c701920205"
 
 [[files]]
 file = "config/nox.json"
-hash = "130729aaea8b16084c2cb0ef2432007e53cc0104ca7e61b95acdd756b0bed7cd"
+hash = "73b135ddd0bcc10f801083eea016cfb68177b023b26c9aeab1828b4bebaf2559"
 
 [[files]]
 file = "config/numismatic-overhaul.json5"
 hash = "ff8b47a4b35bf2e77b404d8a4c9f58d7592892c379a2a0a8fe2b067193be627a"
-
-[[files]]
-file = "config/nyfsquivers_config.json"
-hash = "a96d58f80d3fcce0760e476f098d5f335078d7fe39c0dd8ecc1c493b199a6609"
 
 [[files]]
 file = "config/ost-overhaul.json"
@@ -965,10 +929,6 @@ file = "config/paxi/resourcepacks/BetterEnderDragon-1.19.zip"
 hash = "c3850e8fd295bd35b096296455cc00ddbfdd9dae38a36da63e18c7e6eedbf842"
 
 [[files]]
-file = "config/paxi/resourcepacks/Create Immersive Aircrafts Resource Pack 1.19.2 - 1.2.zip"
-hash = "a7f5c81a49ba4ab4549ed325bfada7499edb0734f3c9aee0c3e8beb5dda9cb0a"
-
-[[files]]
 file = "config/paxi/resourcepacks/Create+Simple+Storage+2.1.zip"
 hash = "fc1cd2ae6ffc55248544e44e64bf7231321a768c5a677fd47169bd7cf1639218"
 
@@ -982,7 +942,7 @@ hash = "1a91e9880baeda43bedddcb1e6e78bedc7ed25874732f8d3b2c1063de7c0bd53"
 
 [[files]]
 file = "config/peepingcreepers.json5"
-hash = "070fc926902d676a6f06b4df682fa9cfacb7908875efe7f37e0d85b8884aad00"
+hash = "1cfb809e1e2f9bf066bef9ac39416e0ff17bb6e677f74ed508d1afb78c670258"
 
 [[files]]
 file = "config/pehkui/config.json"
@@ -1078,7 +1038,7 @@ hash = "098adf2fbdf8e300fcf0cbd974447e484bfe88e3f4d0c0ff8ea08fecd75032f3"
 
 [[files]]
 file = "config/sleep_tight-common.json"
-hash = "2f131c2442c00f47c6669e360c86087ba70ec7a9325e3e70870b83e6b03c7da1"
+hash = "8eda1b46ba6d742643cc0f92090dcc0736e8c87923765a8b25496a6d645f5d4f"
 
 [[files]]
 file = "config/smoothboot.json"
@@ -1122,7 +1082,7 @@ hash = "a4e164bdf91ca0a6304403e4a9dc06ae46980a29fce1fc16a00c3fd8cec7a8ec"
 
 [[files]]
 file = "config/spelunkery-common.json"
-hash = "4480cc5b906c93e7b0865fbde9a49ea429525f690a66740b44440b7393d864ee"
+hash = "b44908d65c5e273c65874713e7abf35402b756a2af50362844f5d9c41e7e1f33"
 
 [[files]]
 file = "config/spyglass-improvements/settings.json"
@@ -1183,10 +1143,6 @@ hash = "368d345e0cb018e156e2616d59e2593f4494c401bd5b027fa013aafacfd3815e"
 [[files]]
 file = "config/vcinteraction/vcinteraction.properties"
 hash = "5f627e3c1f64ce3f87bed02b13f77b0d9ae1f925b21c3aa87c70c060803f3ef7"
-
-[[files]]
-file = "config/vectorientation.properties"
-hash = "e898c5b0b4f0cf5ba1cc1d1eb03fae2693ecd5351cabe90277acf2175aaad7dd"
 
 [[files]]
 file = "config/visuality.json"
@@ -1676,7 +1632,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "1f87846265206279eb38e4ce9b4f69cb3a4401e8074fc69f039100713e525e58"
+hash = "183037212cfd0fa8c041a68b90cae821ab05760f5df4b46fb98a9e9d64726382"
 metafile = true
 
 [[files]]
@@ -2351,7 +2307,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
+hash = "b6d4b85f76ab7c63f30c6c2f12f3188c34b7e3977c092cc7062b2902319e3ed2"
 metafile = true
 
 [[files]]
