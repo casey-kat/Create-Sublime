@@ -586,7 +586,7 @@ hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
 
 [[files]]
 file = "config/environmentalcreepers.json"
-hash = "bf5afc1819b7cd5e0158682b464cf5478e62f8e944c9387d8a7d4a4734774b0f"
+hash = "cd3433149e032056b6cec0d440c6f7a689d8536a270828a3d3ece4f682f23feb"
 
 [[files]]
 file = "config/everycomp-common.json"
@@ -937,8 +937,16 @@ file = "config/paxi/resourcepacks/[1.3] Enhanced Boss Bars.zip"
 hash = "b27b9110c46ab42fd2ce34175e74600e36098b2d49dfa316d75430793213ea0d"
 
 [[files]]
+file = "config/paxi/resourcepacks/xali's Enchanted Books v0.12.0.zip"
+hash = "441dff2b6a130c0028daf44972883f08dfbc55935d4b9cf9123db6687969df5f"
+
+[[files]]
 file = "config/paxi/resourcepacks/xali's Potions v1.0.0.zip"
 hash = "1a91e9880baeda43bedddcb1e6e78bedc7ed25874732f8d3b2c1063de7c0bd53"
+
+[[files]]
+file = "config/paxi/resourcepacks/§bEnchanting§8-§bReimagined§0_§8[v1.1]§0.zip"
+hash = "c385ad4ed5b610fabbc97da42f5c118477cf0448fb9523a88d7de0d437035019"
 
 [[files]]
 file = "config/peepingcreepers.json5"
@@ -1082,7 +1090,7 @@ hash = "a4e164bdf91ca0a6304403e4a9dc06ae46980a29fce1fc16a00c3fd8cec7a8ec"
 
 [[files]]
 file = "config/spelunkery-common.json"
-hash = "b44908d65c5e273c65874713e7abf35402b756a2af50362844f5d9c41e7e1f33"
+hash = "a10ddfa4fe4036937354ff4b0bf15e8c671165da2137daa0804c2ca4bd56998a"
 
 [[files]]
 file = "config/spyglass-improvements/settings.json"
@@ -1266,11 +1274,6 @@ hash = "b119ad0ab00cff9062b29233e4f452d21f9ce690b53426e235670d54d84ac812"
 metafile = true
 
 [[files]]
-file = "mods/automobility.pw.toml"
-hash = "303840c0f81a6564cfae29b3896da5780e7e79f934eaf1d26cc3c89914869b8b"
-metafile = true
-
-[[files]]
 file = "mods/autopath.pw.toml"
 hash = "493352811197cd349dda217bd69cc559f9820b79b44c67b3c078337a1bc0c1c4"
 metafile = true
@@ -1386,11 +1389,6 @@ hash = "701e4d124c9bf41aa3d3e799d946d3c9a34489ffad95c4a6e54d69c2ba5e2442"
 metafile = true
 
 [[files]]
-file = "mods/cauldron-dyeing.pw.toml"
-hash = "fc31f5b1ad03bf84f655c2d4a81e31f41bfc23aa0126829ef83316a8d93d92fc"
-metafile = true
-
-[[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
@@ -1417,7 +1415,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "d1dc8ac9ea0e5aed978c464ff34e460924dfc44d518eece4abbbfb9a5d49abf8"
+hash = "43fa247b9adb68ddd3fe4b683fd5c9fbf97f897e87bf0d35957cfb3fff63b18f"
 metafile = true
 
 [[files]]
@@ -1448,11 +1446,6 @@ metafile = true
 [[files]]
 file = "mods/crafting+.pw.toml"
 hash = "726ccaa1484ec99e9a67cb095391442780db9672de0f4de0b6231566107c45c3"
-metafile = true
-
-[[files]]
-file = "mods/create-enchantment-industry-fabric.pw.toml"
-hash = "a7af649273525c694e70110db99305bc00070f7a0c7a29c7aa686f626670a331"
 metafile = true
 
 [[files]]
@@ -1518,6 +1511,11 @@ metafile = true
 [[files]]
 file = "mods/delightful-creators-fabric.pw.toml"
 hash = "7bad4dfe59078f474242cc2d336df1daea1dffa559cd63ef250befb05646d639"
+metafile = true
+
+[[files]]
+file = "mods/dimthread.pw.toml"
+hash = "edf4d6024ba380cc5e3d308da2077a22288b03e9ac465000d604fa5df0241911"
 metafile = true
 
 [[files]]
@@ -1866,8 +1864,8 @@ hash = "395e906a3ea26e62185f6ad673295ac0d2c09055b46d560f5a6cbc9926e635a8"
 metafile = true
 
 [[files]]
-file = "mods/kelp-fertilizer.pw.toml"
-hash = "ff3ad848762b21eabf4e2ee96abb22f697ec1dd831a8c4ce9837094dd0f0858d"
+file = "mods/krypton.pw.toml"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
 
 [[files]]
@@ -1893,6 +1891,11 @@ metafile = true
 [[files]]
 file = "mods/logical-dye-mixing.pw.toml"
 hash = "b0dca47a7595ee576b8d51076f7287b3c9586c93cff72c64137d8ae8d00f6074"
+metafile = true
+
+[[files]]
+file = "mods/lootr-fabric.pw.toml"
+hash = "2056cbbc69741580c892bcc238ca54ad61f568ba726beb7380c216ef58e17eee"
 metafile = true
 
 [[files]]
@@ -1963,11 +1966,6 @@ metafile = true
 [[files]]
 file = "mods/more-discs.pw.toml"
 hash = "e45dfb850e1c29d3ca4f02a438ef8b7edc44313161485029e7fa7c48a98c5cba"
-metafile = true
-
-[[files]]
-file = "mods/more-geodes.pw.toml"
-hash = "59cf85e5c896edecde2c4b50c5103d624d175f711eae0f0bad6e73b1818ce4a5"
 metafile = true
 
 [[files]]
@@ -2107,12 +2105,17 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
+hash = "a20da06b37ff4fd62465247f42a5a63f5ca507e081e50a97b52bf7afb69135dc"
 metafile = true
 
 [[files]]
 file = "mods/quilt-loading-screen.pw.toml"
 hash = "77aa1af076bfb1175a407037a2d1db80437bae5193db45a557f5f32b3cc4a67f"
+metafile = true
+
+[[files]]
+file = "mods/quiltgoslighlyfasterlol.pw.toml"
+hash = "feee9284053ffd6435907d1bf3b5fdb7e9010237bb2a4b6a912d6f1389f8def7"
 metafile = true
 
 [[files]]
@@ -2151,11 +2154,6 @@ hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
 
 [[files]]
-file = "mods/respawn-obelisks.pw.toml"
-hash = "ab29dd3ee3c2e4f97c90654a8fcb36531183ead38aea75bdea18dd0179c775bb"
-metafile = true
-
-[[files]]
 file = "mods/respite-creators-fabric.pw.toml"
 hash = "aa1fc71319074fbcdf0356c4d82209f1a4706d9416960b4cb3b3e18a8b70152f"
 metafile = true
@@ -2163,11 +2161,6 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "39bced159e83bc8b6f4a7707cd51ee7307417e45c7c1eb3859750ff9550498ae"
-metafile = true
-
-[[files]]
-file = "mods/scaffolding-drops-nearby.pw.toml"
-hash = "856d0d1f22c22809bbb904ffa66a5d835914eae9c36874bd1bce488d018c05c0"
 metafile = true
 
 [[files]]
@@ -2256,11 +2249,6 @@ hash = "38456e9947790ff0b8a0013ffdce9a28e45a53212e0aa37d9c95da423386d3f7"
 metafile = true
 
 [[files]]
-file = "mods/stack-to-nearby-chests.pw.toml"
-hash = "1f17be664e94816e8404f7083d31b7dba2d0b4e185ea4e08c0fff7320a937554"
-metafile = true
-
-[[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
@@ -2293,11 +2281,6 @@ metafile = true
 [[files]]
 file = "mods/thirsty-bottles.pw.toml"
 hash = "8f88e6e155786c746cb76f667bfb3ed91fce352ca0890767d91d3c77dd797c46"
-metafile = true
-
-[[files]]
-file = "mods/tinkerers-smithing.pw.toml"
-hash = "335158c9e5819931d9aa872e35c11a0197284541105a908009ff537d2b0cc2b8"
 metafile = true
 
 [[files]]
@@ -2338,6 +2321,11 @@ metafile = true
 [[files]]
 file = "mods/unpackableminecarts.pw.toml"
 hash = "cbda0daa3a121e2d5f53edf5018a4ca6cae59772a141063d46bfb2e6ad62c48e"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "e07450f78974ba068de931778d49c0937b24d133ce023d87b09d00754e5a045a"
 metafile = true
 
 [[files]]

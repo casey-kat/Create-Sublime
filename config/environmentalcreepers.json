@@ -33,13 +33,13 @@
     "_comment_disableCreeperExplosionEntityDamage": "Disable Creeper explosions from damaging any entities (including items)",
     "disableCreeperExplosionEntityDamage": false,
     "_comment_disableCreeperExplosionItemDamage": "Disable Creeper explosions from damaging items on the ground",
-    "disableCreeperExplosionItemDamage": false,
+    "disableCreeperExplosionItemDamage": true,
     "_comment_disableOtherExplosionBlockDamage": "Completely disable other explosions than Creepers from damaging blocks",
     "disableOtherExplosionBlockDamage": false,
     "_comment_disableOtherExplosionEntityDamage": "Disable other explosions than Creepers from damaging any entities (including items)",
     "disableOtherExplosionEntityDamage": false,
     "_comment_disableOtherExplosionItemDamage": "Disable other explosions than Creepers from damaging items on the ground",
-    "disableOtherExplosionItemDamage": false,
+    "disableOtherExplosionItemDamage": true,
     "_comment_creeperAltitudeCondition": "Enable setting a y range for Creepers to do block damage. Set the range in Generic -\u003e \u0027creeperAltitudeDamageMaxY\u0027 and \u0027creeperAltitudeDamageMinY\u0027.",
     "creeperAltitudeCondition": false,
     "_comment_enableCreeperExplosionChainReaction": "When enabled, a Creeper exploding has a chance to trigger other nearby Creepers.",
@@ -49,7 +49,7 @@
     "_comment_modifyCreeperExplosionStrength": "Modify the strength of Creeper explosions.",
     "modifyCreeperExplosionStrength": false,
     "_comment_modifyOtherExplosionDropChance": "Modify the chance of other explosions than Creepers to drop the blocks as items. Set the chance in Generic -\u003e otherExplosionBlockDropChance.",
-    "modifyOtherExplosionDropChance": false
+    "modifyOtherExplosionDropChance": true
   },
   "Lists": {
     "_comment_entityClassListType": "The list type for the entity class filtering. Either \u0027none\u0027 or \u0027blacklist\u0027 or \u0027whitelist\u0027. Blacklisted (or non-whitelisted) entities will not be removed from the explosion damage list. This allows for example those entities to run their custom code when damaged by explosions.",
