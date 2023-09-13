@@ -1293,28 +1293,20 @@ file = "global_packs/required_resources/GeoFont-MC-2-v1.1.zip"
 hash = "fc47800afd82097c9d770035e240991be97f88f003f8ca3a4a56294aa37b257a"
 
 [[files]]
-file = "global_packs/required_resources/boss refreshed 1.19-1.20.zip"
-hash = "c919cbfbdc7b2dbe22ddb455fb4495e1e2dc2ee177730b13f9360f595e55c21e"
+file = "global_packs/required_resources/Stellar Tweaks-2.4.0-Trimmed.zip"
+hash = "13e426f9d98528105184a2aa17c92be24035b06a3924830ec74f407567d130d5"
+
+[[files]]
+file = "global_packs/required_resources/UnlitCampfireIcons_1.20.zip"
+hash = "0662ca7487fddc8d9af18ad7ea0548de598b61c5e9e9384626ea1d9a5c8a2c44"
 
 [[files]]
 file = "global_packs/required_resources/cubic-sun-moon-v1-6-1.zip"
 hash = "fed6b8e58ed068e41bd5f24e5bcdf8d2dd5911658a76c7d4dfe7302a3c110915"
 
 [[files]]
-file = "global_packs/required_resources/mobs refreshed 1.19-1.20.zip"
-hash = "59319585c94df541ee66df7e1981edeb1227268ab40388ebccfb315cd30b00ae"
-
-[[files]]
 file = "global_packs/required_resources/xali's Potions v1.0.0.zip"
 hash = "1a91e9880baeda43bedddcb1e6e78bedc7ed25874732f8d3b2c1063de7c0bd53"
-
-[[files]]
-file = "global_packs/required_resources/~Stellar Tweaks-2.4.0-Trimmed.zip"
-hash = "13e426f9d98528105184a2aa17c92be24035b06a3924830ec74f407567d130d5"
-
-[[files]]
-file = "global_packs/required_resources/§b§lHuman Villagers §cv10.0.zip"
-hash = "4849486fcca31ddf765ebe5d42bd53225e97e8d4c1aec84d325ee1a92808a5e4"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1587,6 +1579,11 @@ hash = "726ccaa1484ec99e9a67cb095391442780db9672de0f4de0b6231566107c45c3"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "c78ed89fd681f68f3f2f733a4270df3e0b2498838b966990b690b54be1f6ac79"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "a7af649273525c694e70110db99305bc00070f7a0c7a29c7aa686f626670a331"
 metafile = true
@@ -1677,11 +1674,6 @@ hash = "8a69e20d0330cfcd4c268c6d08fdd3db4f20f287d92462abc660ebed9d29fe0c"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-view-fabric.pw.toml"
-hash = "3580c51958e6fd25cd247d1b3405e497faac54d47fe1a1d2d951e7c17c47c0d9"
-metafile = true
-
-[[files]]
 file = "mods/dynamic_asset_generator.pw.toml"
 hash = "a5556be936ce9a6ca6d36f63cbe3e5e4dae20e222517016de83ed3de2a9fd890"
 metafile = true
@@ -1719,11 +1711,6 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "28ac85a7ddfb1f4f6b99a194085d59f6ec90cd6bf74331321e57fec3914f3b2b"
-metafile = true
-
-[[files]]
-file = "mods/elytracapes.pw.toml"
-hash = "892a0c775165ee9b646963f8fd7b652cb98f8205f0fa839a38e1e53614d934e2"
 metafile = true
 
 [[files]]
@@ -1909,11 +1896,6 @@ metafile = true
 [[files]]
 file = "mods/hoe-tweaks.pw.toml"
 hash = "b9621948c3cc3da16d5d59e48cc1eb0da2025725a647ba3aaf8f59c9426de296"
-metafile = true
-
-[[files]]
-file = "mods/hold-that-chunk.pw.toml"
-hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
 metafile = true
 
 [[files]]
@@ -2127,11 +2109,6 @@ hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
-file = "mods/no-hostiles-around-campfire.pw.toml"
-hash = "e4a0e85304f4b28fea8ef890755227dcf1c1eb42de3c0c6a235f41f21ae23f65"
-metafile = true
-
-[[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "44550fd8d2883b49d8f4e375220563dec6ed88e6c99ae9b17d1d7e544c2aab5b"
 metafile = true
@@ -2339,6 +2316,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "51a859be42055c2db7ea8c3be65189dafdedce167944ab3afe5fd37228d1ecfc"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
 metafile = true
 
 [[files]]
