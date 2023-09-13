@@ -1497,11 +1497,6 @@ hash = "9052020b243f263b9fb06c3e548d494df206a4e7c8418f3b43772504d0beb493"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "e2efee228d951bde49b855804024bc98cb103168ca050dbbb1af2773051ad9a3"
-metafile = true
-
-[[files]]
 file = "mods/cammies-minecart-tweaks.pw.toml"
 hash = "c146babc3f83049bc49c190308f9d190b636144c61f3c69a87099692656386fb"
 metafile = true
@@ -1689,11 +1684,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic_asset_generator.pw.toml"
 hash = "a5556be936ce9a6ca6d36f63cbe3e5e4dae20e222517016de83ed3de2a9fd890"
-metafile = true
-
-[[files]]
-file = "mods/e4mc.pw.toml"
-hash = "99b1060fa083ca355f35f09fe02ef04832a313cff855de8522fd1766164e0082"
 metafile = true
 
 [[files]]
@@ -2349,11 +2339,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "51a859be42055c2db7ea8c3be65189dafdedce167944ab3afe5fd37228d1ecfc"
-metafile = true
-
-[[files]]
-file = "mods/spark.pw.toml"
-hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
 metafile = true
 
 [[files]]
