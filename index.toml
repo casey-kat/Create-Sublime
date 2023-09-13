@@ -290,7 +290,7 @@ hash = "063ce4f60934ab166dade45375ef5518df74be2c6c1e1f1a52ec181013803197"
 
 [[files]]
 file = "config/biomespawnpoint/spawnbiomes.txt"
-hash = "92f7dfb23183f5b5b671fcb234f91ba4b66e1712cee11646794c58b65939de73"
+hash = "f3b809a5c06f67461666321671ca089e1fba10f4b768ef0ae1eb80df8cd75175"
 
 [[files]]
 file = "config/blur.json"
