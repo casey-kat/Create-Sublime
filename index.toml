@@ -473,6 +473,10 @@ file = "config/cardinal-components-api.properties"
 hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
 [[files]]
+file = "config/cem.conf"
+hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
+
+[[files]]
 file = "config/chatpatches.json"
 hash = "42db81b63a3f7131ae6185b27de7f11314733d4922a6b20d34b0afc82346ffe8"
 
@@ -494,7 +498,7 @@ hash = "600046b205e20aa3a2ff5af8a66a202c00a97b1c27a6c0675211dbe11d4c0b5f"
 
 [[files]]
 file = "config/computercraft-client.toml"
-hash = "8e1af48fbafb26e374fb91793cd950e32dc4008e423267f8d2006c2350bfd567"
+hash = "fa8134fd9c71e40230f0088ba3263cbc07f33f7fb2c61f265be44acc46190cfa"
 
 [[files]]
 file = "config/continuity.json"
@@ -626,7 +630,7 @@ hash = "75aa89856ea74ac4121a77cdb28bf2833cc797b7ad1c491085a3cc0f306802ec"
 
 [[files]]
 file = "config/entity_model_features.json"
-hash = "a2d6d303a470df2344a5f9d2d44a7a3cbb77f059ac675aab5a5236363224c25c"
+hash = "55f0aed48566953b234236f4e558ec44703bc617d5d6a535d6f195059d21a5fd"
 
 [[files]]
 file = "config/entity_texture_features.json"
@@ -646,7 +650,7 @@ hash = "a850f57fa63f6470e626a321920dd7d08d9d380f2c8fd52499bb1873e4687433"
 
 [[files]]
 file = "config/everycomp-wood_types.json"
-hash = "bded11caa7f6ed48cc89949cb5d6c07eb62137a12572984501d6034c7a85e6ce"
+hash = "a86f48fb0cd601262ec2920cbe26243bb179710144a26c45c8dabe3fed06e526"
 
 [[files]]
 file = "config/excavated_variants.toml"
@@ -662,11 +666,11 @@ hash = "c52ee445078c5835625d2ffa96ca5032bd54c86ea43904fcaa0ce3526724bb68"
 
 [[files]]
 file = "config/extrasounds.cache"
-hash = "2e35ef7d4ca587f6673c0af2034cf9e628ed75c4a356a8d8d3a103b5974d3ebd"
+hash = "85efd1adfd53744d993a5a6599390f744755eb4bde0d23510703427286b46657"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "0fceee955c65bb9810fdcff5aeca09d941bd2546827f273328af08dd8cea2bf3"
+hash = "032d0462838f1205317e68b6d161ad0a52ebfde7a4330473f5fea6f902a6749f"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -762,7 +766,7 @@ hash = "7a42f31a0b3296f4033bff371a5af21ed1d5d333abc00f4faceb7e1e893518b6"
 
 [[files]]
 file = "config/guarding.properties"
-hash = "e29fa9f0171f4bff053a981ebd9c2dea7678fa3296efc50e76ec9c109d7206d2"
+hash = "8b85ed932a1c87e6319c37f3df212dc0910756714cb99c26168ed8866b0cf800"
 
 [[files]]
 file = "config/healingcampfire.json5"
@@ -794,7 +798,7 @@ hash = "787376505d70f37fbc646b83fee84129fdc0f02bc536f9b7a8243a628ba2733f"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "e0f026f5a71d5d4c67a43f9b0d2c7a86718bc855127b39ade80d56f8d2b7661e"
+hash = "4ffd865a5a0828b300deebac894df54cadbb2b418314302199aec811e1cec93c"
 
 [[files]]
 file = "config/infinity-buttons-config.json5"
@@ -814,7 +818,7 @@ hash = "849e0dfe96b36defccf2aad4f55069c8848814e6731117d30fbb27fdbd37170e"
 
 [[files]]
 file = "config/iris.properties"
-hash = "00064695a14d593b3ffe07ecd2120b5be908e4210c495a124f95f9ada6d0b085"
+hash = "815d8ad47fcb0e8117ee76bc4418b39337f83b80f0ca62c986eae660cf73cc02"
 
 [[files]]
 file = "config/itemmodelfix.json"
@@ -961,14 +965,6 @@ file = "config/pal.properties"
 hash = "3f2b6e2818882cb07acb7630b3b1ef38693947ab052315e47927d92ac02d3c61"
 
 [[files]]
-file = "config/paxi/datapack_load_order.json"
-hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
-
-[[files]]
-file = "config/paxi/resourcepack_load_order.json"
-hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
-
-[[files]]
 file = "config/peepingcreepers.json5"
 hash = "1cfb809e1e2f9bf066bef9ac39416e0ff17bb6e677f74ed508d1afb78c670258"
 
@@ -1102,15 +1098,15 @@ hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "82d8f57b2657030a47cf66a161ea56126f4c396dcd7db384b31a1f19a2990ea8"
+hash = "b738213010e6d1b4607cad30d15b1e03d803d38a6061a572a7758e67673e2084"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "bc9bfe529fac82b041ec9cd24982d80b7c2e3578a911c1e624ca9ce1d8285556"
+hash = "7f2c56be4c52c2bff28f8cd3f194fa6639e032c2039c0498f620caaff0c5c07d"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "8bb0846e87f81c96b29dd387bb70722f004ab38a914cafd7fe460132eafba474"
+hash = "2f86de2fffcb2c977b4abd74c66af6d91ec4147c77165511a4dc8d771da02815"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1182,7 +1178,7 @@ hash = "368d345e0cb018e156e2616d59e2593f4494c401bd5b027fa013aafacfd3815e"
 
 [[files]]
 file = "config/vcinteraction/vcinteraction.properties"
-hash = "c01010fff2e6ab1cacde045acaa710dc25dba555f5dbb2eef45259c6aba782ce"
+hash = "034ef0f9c009c803c30b374a71c6b6cf7e274508b85f1eb22c0c3e57647e4b97"
 
 [[files]]
 file = "config/visual_workbench.json"
@@ -1249,36 +1245,8 @@ file = "config/zombiehorsespawn.json5"
 hash = "f2ae2047e8264c7b33a1f841c26713ffe3822a2d671b92169ce6fe955a7af739"
 
 [[files]]
-file = "global_packs/optional_resources/1.20 Create Computers 1.2.zip"
-hash = "f90610cd0e64c25b45399aab0c0e84c7131d7bc14edc6d0c31706a33b36d8518"
-
-[[files]]
-file = "global_packs/optional_resources/FreshAnimations_v1.8.1.zip"
-hash = "b97991ba6cf33317b5e7ef092e66d2522b6848ec52bb89548bede0765d3ac8cb"
-
-[[files]]
 file = "global_packs/optional_resources/Link's Font.zip"
 hash = "38e43992f9d4377ef011966384915c6b9bbe9ea9b54160ab9466c5fd66669ba0"
-
-[[files]]
-file = "global_packs/optional_resources/Mobs-Refreshed+FA-v1.0.0.zip"
-hash = "f2ca4081c4664267a3f0877dfdf4c88a521d2529c3011dd3cd676ec0038e6fc6"
-
-[[files]]
-file = "global_packs/optional_resources/Stellar Tweaks+FA-1.0.0.zip"
-hash = "213be2c33b5e2fb6fa94a6ebe7ea340ed361f79178f2f8b91fd56ff960fd4331"
-
-[[files]]
-file = "global_packs/optional_resources/boss refreshed 1.19-1.20.zip"
-hash = "c919cbfbdc7b2dbe22ddb455fb4495e1e2dc2ee177730b13f9360f595e55c21e"
-
-[[files]]
-file = "global_packs/optional_resources/boss-refreshed+FA-v1.0.0.zip"
-hash = "fef6eee12c4b46ec06e0d16a59da904a62bfd4b6ae1bf64000d3ee46499ff18b"
-
-[[files]]
-file = "global_packs/optional_resources/mobs refreshed 1.19-1.20.zip"
-hash = "59319585c94df541ee66df7e1981edeb1227268ab40388ebccfb315cd30b00ae"
 
 [[files]]
 file = "global_packs/required_data/cheaper-map-crafting+1.19.zip"
@@ -1299,10 +1267,6 @@ hash = "f0ac3911f5e1559d75b1c41177c2e8506b85228083392f4c41ede7e8ef1f9203"
 [[files]]
 file = "global_packs/required_resources/Andesite_Chests+Crafting_Table_1_18.zip"
 hash = "7ccc11c88f518f92fd0b4395fc2c2f9c694b2f4ad31d3bf3a7b3cdfab9b17e8b"
-
-[[files]]
-file = "global_packs/required_resources/Assorted Allays - V.3.0.zip"
-hash = "cc738c22d04bd8f45878fcf36ad24e562ae48b4c261cf14ccdc3ed1a54073176"
 
 [[files]]
 file = "global_packs/required_resources/Blockstates+V1.4.zip"
@@ -1329,12 +1293,16 @@ file = "global_packs/required_resources/GeoFont-MC-2-v1.1.zip"
 hash = "fc47800afd82097c9d770035e240991be97f88f003f8ca3a4a56294aa37b257a"
 
 [[files]]
-file = "global_packs/required_resources/VexBackport-16x-1.19.zip"
-hash = "5f4ec9093e67e31eecb325355785ba233d46e28eba837bfe57c2392c02613b34"
+file = "global_packs/required_resources/boss refreshed 1.19-1.20.zip"
+hash = "c919cbfbdc7b2dbe22ddb455fb4495e1e2dc2ee177730b13f9360f595e55c21e"
 
 [[files]]
 file = "global_packs/required_resources/cubic-sun-moon-v1-6-1.zip"
 hash = "fed6b8e58ed068e41bd5f24e5bcdf8d2dd5911658a76c7d4dfe7302a3c110915"
+
+[[files]]
+file = "global_packs/required_resources/mobs refreshed 1.19-1.20.zip"
+hash = "59319585c94df541ee66df7e1981edeb1227268ab40388ebccfb315cd30b00ae"
 
 [[files]]
 file = "global_packs/required_resources/xali's Potions v1.0.0.zip"
@@ -2552,6 +2520,10 @@ metafile = true
 file = "mods/zombie-horse-spawn.pw.toml"
 hash = "badf0281f2491b84c817be35dd76703ba2cc56601c78ea533374995e742dab95"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "8c88968ea892f06384cfa8cbcda0072b5ccd12f14799a6b45fdc1e8fc97eaa30"
 
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
