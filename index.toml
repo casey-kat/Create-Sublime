@@ -2530,36 +2530,8 @@ file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
-file = "resourcepacks/1.20 Create Computers 1.2.zip"
-hash = "f90610cd0e64c25b45399aab0c0e84c7131d7bc14edc6d0c31706a33b36d8518"
-
-[[files]]
-file = "resourcepacks/FreshAnimations_v1.8.1.zip"
-hash = "b97991ba6cf33317b5e7ef092e66d2522b6848ec52bb89548bede0765d3ac8cb"
-
-[[files]]
 file = "resourcepacks/Link's Font.zip"
 hash = "38e43992f9d4377ef011966384915c6b9bbe9ea9b54160ab9466c5fd66669ba0"
-
-[[files]]
-file = "resourcepacks/Mobs-Refreshed+FA-v1.0.0.zip"
-hash = "f2ca4081c4664267a3f0877dfdf4c88a521d2529c3011dd3cd676ec0038e6fc6"
-
-[[files]]
-file = "resourcepacks/Stellar Tweaks+FA-1.0.0.zip"
-hash = "213be2c33b5e2fb6fa94a6ebe7ea340ed361f79178f2f8b91fd56ff960fd4331"
-
-[[files]]
-file = "resourcepacks/boss refreshed 1.19-1.20.zip"
-hash = "c919cbfbdc7b2dbe22ddb455fb4495e1e2dc2ee177730b13f9360f595e55c21e"
-
-[[files]]
-file = "resourcepacks/boss-refreshed+FA-v1.0.0.zip"
-hash = "fef6eee12c4b46ec06e0d16a59da904a62bfd4b6ae1bf64000d3ee46499ff18b"
-
-[[files]]
-file = "resourcepacks/mobs refreshed 1.19-1.20.zip"
-hash = "59319585c94df541ee66df7e1981edeb1227268ab40388ebccfb315cd30b00ae"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.0.1.zip"
