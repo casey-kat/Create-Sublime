@@ -2119,11 +2119,6 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
-file = "mods/modelfix.pw.toml"
-hash = "9d903fdb128e98639fca7b110c1d1993bfaddc9025ccbe0d03753c429f895134"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
@@ -2451,11 +2446,6 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "b6d4b85f76ab7c63f30c6c2f12f3188c34b7e3977c092cc7062b2902319e3ed2"
-metafile = true
-
-[[files]]
-file = "mods/trinkets-curios-theme.pw.toml"
-hash = "3fb0a2eef62dacbe4aedd9d10b851751bbbb49745d4faf28abccdec77a1fbf64"
 metafile = true
 
 [[files]]
