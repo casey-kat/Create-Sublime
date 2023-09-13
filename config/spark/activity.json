@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "casey_kat",
+      "uniqueId": "91f01d52-ae94-4f8d-a3fd-a78954086f63"
+    },
+    "time": 1694560690730,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/zrR96e8NnN"
+    }
+  }
+]

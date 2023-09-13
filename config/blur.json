@@ -8,7 +8,7 @@
   ],
   "fadeTimeMillis": 50,
   "ease": true,
-  "radius": 2,
+  "radius": 5,
   "gradientStart": "#000000",
   "gradientStartAlpha": 75,
   "gradientEnd": "#000000",
