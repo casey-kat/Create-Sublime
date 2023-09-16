@@ -19,5 +19,5 @@
 	// Whether your arms should swing when dropping items
 	"swingArm": true,
 	// Whether block items should lay flat on the ground
-	"blocksLayFlat": false
+	"blocksLayFlat": true
 }

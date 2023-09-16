@@ -6,7 +6,7 @@
       "range": 64
     },
     "bellows": {
-      "enabled": true,
+      "enabled": false,
       "base_period": 78,
       "power_scaling": 2.0,
       "base_velocity_scaling": 5.0,
@@ -330,7 +330,7 @@
       "spread_age": 2
     },
     "raked_gravel": {
-      "enabled": true
+      "enabled": false
     },
     "bottle_xp": {
       "enabled": false,

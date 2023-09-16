@@ -1,0 +1,13 @@
+name = "Spawncap Control Utility (Forge & Fabric)"
+filename = "fabric-spawncapcontrolutility-1.19-2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6673f032bfa74c295ae4a1c0e6f149c85a447c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4551250
+project-id = 657824

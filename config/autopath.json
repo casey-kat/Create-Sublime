@@ -1,8 +1,8 @@
 {
-  "enableMobPathCreation": false,
+  "enableMobPathCreation": true,
   "downgradeTime": 760,
   "upgradeTime": 280,
-  "permanentPath": false,
+  "permanentPath": true,
   "steppedBeforePermanent": 12,
   "permanentAsDirtPath": false
 }
