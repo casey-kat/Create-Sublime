@@ -283,7 +283,7 @@
 				weighted_ejector = 2.0
 				cogwheel = 0.04
 				andesite_encased_cogwheel = 0.04
-				belt = 0.04
+				belt = 0.08
 				brass_encased_cogwheel = 0.04
 				gearbox = 0.08
 				hose_pulley = 4.0

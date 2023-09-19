@@ -1,8 +1,8 @@
 {
   "printModelCreationInfoToLog": false,
   "printAllMaths": false,
-  "renderCustomModelsGreen": true,
-  "vanillaModelRenderMode": "Position_normal",
+  "renderCustomModelsGreen": false,
+  "vanillaModelRenderMode": "Off",
   "mathFunctionChoice": "JavaMath",
   "tryForceEmfModels": true,
   "printUnknownModelsMode": "NONE",

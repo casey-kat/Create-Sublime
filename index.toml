@@ -1094,11 +1094,6 @@ hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
 
 [[files]]
-file = "mods/aileron.pw.toml"
-hash = "0a30b128bb7b8fe31426e3e2461d1b9cd3161bf45be840bf86e9e424a966beac"
-metafile = true
-
-[[files]]
 file = "mods/allaybottle.pw.toml"
 hash = "346399688e4548179180a379e257a1968d46460b32912253312470bbdb2605f5"
 metafile = true
@@ -1189,11 +1184,6 @@ hash = "aeaefb6089a1cf7635b3722aabdda71baea6e0e72547ca3bb7726400ae5b93cd"
 metafile = true
 
 [[files]]
-file = "mods/better-chunk-loading-forge-fabric.pw.toml"
-hash = "0f14ee49cf3518fac0862597449dcd4715fbb1a156a0b5e86d1ba01eff1bf29b"
-metafile = true
-
-[[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "3764034f618349596c95782f1c4d9470983c31983b963dae2ae65f8dd7e07d23"
 metafile = true
@@ -1271,6 +1261,11 @@ metafile = true
 [[files]]
 file = "mods/bundle-recipe.pw.toml"
 hash = "9052020b243f263b9fb06c3e548d494df206a4e7c8418f3b43772504d0beb493"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "e2efee228d951bde49b855804024bc98cb103168ca050dbbb1af2773051ad9a3"
 metafile = true
 
 [[files]]
@@ -1611,11 +1606,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
-metafile = true
-
-[[files]]
-file = "mods/from-the-fog.pw.toml"
-hash = "30e59165fb662b97599cfaf8afbee50cf9ec5da34f03e7af2bdadd00fcdb93c3"
 metafile = true
 
 [[files]]
@@ -2091,11 +2081,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
-metafile = true
-
-[[files]]
-file = "mods/spawncapcontrolutility.pw.toml"
-hash = "3c73c228ff8bb1b862c1f8cbf313b0128929ca4428bfab249b473dbc65c44048"
 metafile = true
 
 [[files]]
